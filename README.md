@@ -1,4 +1,4 @@
-# p3-_Readme
+# p3_Readme
 
 # 기능 명세서
 
